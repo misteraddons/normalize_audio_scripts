@@ -1,6 +1,8 @@
 # MiSTer Core Audio Normalization
 
-* MiSTer's cores output wildly different levels of audio
+_**DISCLAIMER: Do not try this on your grandma's SD card. It may erase childhood pictures and save files**_
+
+* MiSTer's cores output wildly different levels of audio - these scripts aim to balance audio levels between cores
 * I measured average and maximum SPL in dB, and recorded the core volume adjustment needed to achieve this level
 * Each tick of OSD volume is roughly 6dB which is a factor of 2.
 * Measurements ignore menu noises, instead focusing on gameplay (still some loud sfx in arcade cores)
