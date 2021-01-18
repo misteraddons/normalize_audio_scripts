@@ -1,6 +1,6 @@
 # MiSTer Core Audio Normalization
 
-_**DISCLAIMER: Do not try this on your grandma's SD card. It may erase childhood pictures and save files**_
+_**DISCLAIMER: Do not try this on your grandma's SD card. It may erase childhood pictures and save files.**_
 
 * MiSTer's cores output wildly different levels of audio - these scripts aim to balance audio levels between cores
 * I measured average and maximum SPL in dB, and recorded the core volume adjustment needed to achieve this level
